@@ -12,7 +12,7 @@ public class Runner {
         Usuario jose = new Usuario("Jose", 1000);
 
         List<Usuario> usuarios = Arrays.asList(leonardo, pedro, jose);
-
+        //Teste
         ArrayList<Usuario> usuarios1 = new ArrayList<>();
         usuarios1.add(leonardo);
         usuarios1.add(pedro);
